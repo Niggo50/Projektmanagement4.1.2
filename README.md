@@ -1,6 +1,6 @@
 # Projektmanagement4.1.2 + Data Integration
 
-Wir Stellen uns die Frage: **Wo sollte Köln zuerst in Radwege investieren**
+Wir Stellen uns die Frage: **Wo sollte Köln zuerst in Radwege investieren?**
 
 # Einige Datensätze:
 Datei zur [Fahrradinfrastruktur](https://www.govdata.de/suche/daten/fahrradstrassen-koln).    
